@@ -4,111 +4,104 @@
   "title": "Inception",
   "text": "Dream heist movie thriller",
   "date": "2010",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/1.jpg?raw=true"
   },
   {
   "id": 2,
   "title": "Pulp Fiction",
   "text": "Cult classic crime drama",
   "date": "1994",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/2.webp?raw=true"
   },
   {
   "id": 3,
   "title": "The Godfather",
   "text": "Epic mafia saga",
   "date": "1972",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/3.jpg?raw=true"
   },
   {
   "id": 4,
   "title": "The Shawshank Redemption",
   "text": "Prison drama masterpiece",
   "date": "1994",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/4.jpg?raw=true"
   },
   {
   "id": 5,
   "title": "Forrest Gump",
   "text": "Feel-good drama classic",
   "date": "1994",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/5.jpg?raw=true"
   },
   {
   "id": 6,
   "title": "The Dark Knight",
   "text": "Superhero crime thriller",
   "date": "2008",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/6.jpg?raw=true"
   },
   {
   "id": 7,
   "title": "Fight Club",
   "text": "Psychological thriller cult classic",
   "date": "1999",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/7.jpg?raw=true"
   },
   {
   "id": 8,
   "title": "The Matrix",
   "text": "Sci-fi action epic",
   "date": "1999",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/8.jpg?raw=true"
   },
   {
   "id": 9,
   "title": "The Silence of the Lambs",
   "text": "Horror crime drama masterpiece",
   "date": "1991",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/9.jpg?raw=true"
   },
   {
   "id": 10,
   "title": "Goodfellas",
   "text": "Epic gangster movie",
   "date": "1990",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/10.jpg?raw=true"
   },
   {
   "id": 11,
   "title": "Star Wars",
   "text": "Epic space opera",
   "date": "1977",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/11.jpg?raw=true"
   },
   {
   "id": 12,
   "title": "Jurassic Park",
   "text": "Dinosaurs run amok",
   "date": "1993",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/12.jpg?raw=true"
   },
   {
   "id": 13,
   "title": "Back to the Future",
   "text": "Classic time travel adventure",
   "date": "1985",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/13.jpg?raw=true"
   },
   {
   "id": 14,
   "title": "The Lord of the Rings",
   "text": "Epic fantasy trilogy",
   "date": "2001",
-  "image": ""
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/14.jpg?raw=true"
   },
   {
   "id": 15,
   "title": "Titanic",
   "text": "Romantic disaster epic",
   "date": "1997",
-  "image": ""
-  },
-  {
-  "id": 16,
-  "title": "Jaws",
-  "text": "Terrifying shark horror classic",
-  "date": "1975",
-  "image": ""
-  } 
+  "image": "https://github.com/mrendermeshkaGTV/files/blob/main/15.jpg?raw=true"
+  }
 ]
